@@ -1,13 +1,20 @@
    public void logowanie() {
         System.out.println("Podaj nazwe użytkownika");
-        System.out.println("Podaj poprawnee hasło");
+        System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-dsnfkasdjg;jgbfdlkgjds;fI
 
    public void logowanieGoogle() {
         System.out.println("Podaj mail z gmaila");
-        System.out.println("Podaj poprawne hasło");
+        System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
+   public void logowanieMicrosoft() {
+        System.out.println("Podaj nazwe użytkownika Microsoft");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+
+
