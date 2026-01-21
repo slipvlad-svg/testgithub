@@ -5,3 +5,9 @@
     }
 
 dsnfkasdjg;jgbfdlkgjds;fI
+
+   public void logowanieGoogle() {
+        System.out.println("Podaj mail z gmaila");
+        System.out.println("Podaj poprawne hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
