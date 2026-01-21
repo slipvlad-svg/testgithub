@@ -5,3 +5,11 @@
     }
 
 dsnfkasdjg;jgbfdlkgjds;fI
+
+   public void logowanieMicrosoft() {
+        System.out.println("Podaj nazwe użytkownika Microsoft");
+        System.out.println("Podaj poprawnee hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+
+dsnfkasdjg;jgbfdlkgjds;fI
